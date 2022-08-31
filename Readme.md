@@ -1,7 +1,7 @@
 # Assignment 8
 ## Full Stack Javascript Web Development Course by [iNeuron](https://ineuron.ai/)
 
-This website is created with HTML and CSS only. As of now, this website is not mobile responsive, but I will update this project very soon to make it mobile responsive. It took me almost 3 to 4 hours to complete this project. All the images and logos are provided by iNeuron team.
+This webpage is created with HTML and CSS only. It is a responsive webpage and I used media query to give responsiveness. It took me almost 4 hours to complete this project. All the images and logos are provided by iNeuron team.
 
 [Click Here](https://fsjs-assignment8.netlify.app/) to view the website.
 
